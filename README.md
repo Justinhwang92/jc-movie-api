@@ -1,3 +1,3 @@
 # React Movie App with TypeScript
 
-An enterprise ready Movie API NodeJS applications using NestJS.
+An enterprise-ready Movie API NodeJS application using NestJS.
